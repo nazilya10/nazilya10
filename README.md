@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nazilya
 - 👀 I’m interested in testing
 - 🌱 I’m currently learning QA
-- 💞️ I’m looking for opportunities to collaborate on interensting crowdsourcing activities 
+- 💞️ I’m looking for opportunities to collaborate on interesting crowdsourcing activities (charity, pet projects, etc)
 - 📫 How to reach me ... here!
 
 <!---
