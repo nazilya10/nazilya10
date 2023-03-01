@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nazilya
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning QA
-- 💞️ I’m looking for opportunities to collaborate on interesting crowdsourcing activities (charity, pet projects, etc)
+- 🌱 I’m a manual QA Engineer (mobile + backend)
 - 📫 How to reach me ... here!
 
 <!---
